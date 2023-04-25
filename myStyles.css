@@ -1,0 +1,42 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: left;
+}
+
+ .italics {
+    font-style: italic;
+ }
+
+ .labelz {
+    font-weight: bold; 
+    color: blue;
+    font-size: large;
+ }
+
+ .namediv {
+background-color: rgba(214, 209, 209, 0.563);
+border: 2px;
+border-color: blue;
+ }
+.edudiv {
+    background-color: rgb(2, 1, 14);
+    border: 50px;
+    border-color: black;
+}
+.expdiv {
+    background-color: rgb(65, 65, 134);
+    color: black;
+    border: 2px;
+    border-color: black;
+}
+
+.song{
+    text-align: center;
+    color: blue;
+    font-size: large;
+}
+    
+
+
+
